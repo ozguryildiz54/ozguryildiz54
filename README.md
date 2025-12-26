@@ -1,57 +1,65 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Özgür%20Yıldız&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Özgür%20Yıldız&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
-# 🥕 What's up, doc? I'm Özgür!
+## 🥕 What's up, doc? I'm Özgür!
 
-[cite_start]**Computer Engineer & Backend Developer** based in **Boston, USA**[cite: 10, 11]. [cite_start]Dedicated to building scalable systems and exploring the intersection of IoT and Software Architecture[cite: 21, 24, 25].
+Backend-focused **Computer Engineer** based in **Boston, USA**.  
+I build scalable backends, REST APIs, and automation tools — and I also enjoy IoT projects that connect software with real-world devices.
 
----
-
-### 🛠 Technologies & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-</p>
-
----
-
-### 📂 Featured Project Portfolio
-| Project Name | Tech Stack | Highlights | Repo |
-| :--- | :--- | :--- | :--- |
-| **Real Estate Management** | C#, .NET, MSSQL | CRUD, DB Design, Layered Architecture | [Visit Repo](https://github.com/ozguryildiz54/Real-Estate-Management-System) |
-| **Stock Exchange Automation** | Java, OOP | Simulation, Order Flow, Design Patterns | [Visit Repo](https://github.com/ozguryildiz54/Stock-Exchange-Automation) |
-| **IoT Line Follower Robot** | C++, Arduino | Hardware Control & Sensor Fusion | [Visit Repo](https://github.com/ozguryildiz54/IoT-Line-Follower-Robot-v2) |
-| **Micro Market System** | Java, Mobile | Enterprise Inventory & Sale Workflow | [Visit Repo](https://github.com/ozguryildiz54/Micro-Market-Management) |
-
----
-
-### 📊 GitHub Stats & Activity (2025 Edition)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozguryildiz54&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozguryildiz54&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozguryildiz54&theme=tokyonight&hide_border=true" width="100%" />
-</p>
-
----
-
-### 📫 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/ozguryildiz0/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ozguryildiz0@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+---
+
+### 🛠 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+| Project | Stack | Highlights | Link |
+|---|---|---|---|
+| **DraftLift Scheduler** | Node.js, Express | Automation, scheduling, publishing workflow | https://github.com/ozguryildiz54/draftlift-scheduler |
+| **Real Estate Management** | C#, .NET, MSSQL | CRUD, layered architecture, DB design | https://github.com/ozguryildiz54/Real-Estate-Management-System |
+| **Stock Exchange Automation** | Java, OOP | Simulation, order flow, design patterns | https://github.com/ozguryildiz54/Stock-Exchange-Automation |
+| **Inventory Management System** | (fill) | Asset lifecycle, search/filtering | https://github.com/ozguryildiz54/Inventory-Management-System |
+| **IoT Line Follower Robot** | C++, Arduino | Sensors + control logic | https://github.com/ozguryildiz54/IoT-Line-Follower-Robot-v2 |
+
+> Tip: “(fill)” yazan yere stack’i net yaz. Stack bilinmiyorsa satırı çıkar.
+
+---
+
+### 📊 GitHub Activity
 <p align="center">
-  <b>Let's build something amazing!</b> 🚀
+  <img src="https://github-readme-stats.vercel.app/api?username=ozguryildiz54&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozguryildiz54&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ozguryildiz54&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <b>Let’s build something amazing!</b> 🥕
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer" width="100%" />
 </p>

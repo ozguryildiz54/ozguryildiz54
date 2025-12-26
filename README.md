@@ -41,11 +41,13 @@ I build scalable backends, REST APIs, and automation tools — and I also enjoy 
 
 ---
 
-### 📊 GitHub Activity
+### 🚀 Current Workspace & Focus
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozguryildiz54&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozguryildiz54&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ozguryildiz54&repo=IoT-Line-Follower-Robot-v2&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ozguryildiz54&repo=Stock-Exchange-Automation&theme=tokyonight" />
 </p>
+
+> **Status:** 🛠️ Refactoring Backend architectures | 📡 Exploring IoT protocols in Boston.
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozguryildiz54&theme=tokyonight&hide_border=true" width="100%" />

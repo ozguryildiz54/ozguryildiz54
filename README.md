@@ -53,11 +53,23 @@ I build scalable backends, REST APIs, **authentication (JWT), and database-drive
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ozguryildiz54&theme=tokyonight&hide_border=true&v=7" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozguryildiz54&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%A5%95%20Let%E2%80%99s%20build%20something%20amazing!-FF7A00?style=for-the-badge&labelColor=111111" />
+</p>
+<p align="center"><b>🥕 Let’s build something amazing!</b></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozguryildiz54&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%A5%95%20Let%E2%80%99s%20build%20something%20amazing!-FF7A00?style=for-the-badge&labelColor=111111" />
+</p>
 <p align="center">
   <b><span style="color:#FF7A00;">🥕 Let’s build something amazing!</span></b>
 </p>

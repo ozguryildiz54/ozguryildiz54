@@ -42,10 +42,10 @@ I build scalable backends, REST APIs, and automation tools — and I also enjoy 
 ---
 
 ### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozguryildiz54&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozguryildiz54&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=ozguryildiz54&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200&v=2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozguryildiz54&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200&v=2)
+![Streak](https://streak-stats.demolab.com?user=ozguryildiz54&theme=tokyonight&hide_border=true&v=2)
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozguryildiz54&theme=tokyonight&hide_border=true" width="100%" />

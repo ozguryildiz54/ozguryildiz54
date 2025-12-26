@@ -1,3 +1,4 @@
+```md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Özgür%20Yıldız&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
@@ -11,10 +12,12 @@ I build scalable backends, REST APIs, and automation tools — and I also enjoy 
   <a href="https://www.linkedin.com/in/ozguryildiz0/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ozguryildiz0@outlook.com">
+  <a href="mailto:ozguryildiz0@outlook.com?subject=Hello%20Özgür%20(GitHub)&body=Hi%20Özgür,%0A%0AI%20found%20your%20GitHub%20profile%20and%20wanted%20to%20reach%20out.%0A%0AThanks!">
     <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+📧 Email: **ozguryildiz0@outlook.com**
 
 ---
 
@@ -37,10 +40,8 @@ I build scalable backends, REST APIs, and automation tools — and I also enjoy 
 | **DraftLift Scheduler** | Node.js, Express | Automation, scheduling, publishing workflow | https://github.com/ozguryildiz54/draftlift-scheduler |
 | **Real Estate Management** | C#, .NET, MSSQL | CRUD, layered architecture, DB design | https://github.com/ozguryildiz54/Real-Estate-Management-System |
 | **Stock Exchange Automation** | Java, OOP | Simulation, order flow, design patterns | https://github.com/ozguryildiz54/Stock-Exchange-Automation |
-| **Inventory Management System** | (fill) | Asset lifecycle, search/filtering | https://github.com/ozguryildiz54/Inventory-Management-System |
+| **Inventory Management System** | ASP.NET MVC, C#, .NET Framework | Asset lifecycle, fault/ticket reporting, admin panel | https://github.com/ozguryildiz54/Inventory-Management-System |
 | **IoT Line Follower Robot** | C++, Arduino | Sensors + control logic | https://github.com/ozguryildiz54/IoT-Line-Follower-Robot-v2 |
-
-> Tip: “(fill)” yazan yere stack’i net yaz. Stack bilinmiyorsa satırı çıkar.
 
 ---
 
@@ -63,3 +64,4 @@ I build scalable backends, REST APIs, and automation tools — and I also enjoy 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer" width="100%" />
 </p>
+```

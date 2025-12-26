@@ -40,13 +40,8 @@ I build scalable backends, REST APIs, and automation tools — and I also enjoy 
 | **IoT Line Follower Robot** | C++, Arduino | Control Logic & Sensors | [Visit](https://github.com/ozguryildiz54/IoT-Line-Follower-Robot-v2) |
 
 ---
-
-### 🐍 Contribution Snake (More Creative)
-> If you haven't created the `snake.yml` workflow yet, this will appear after you add it (steps below).
 ![Snake](https://raw.githubusercontent.com/ozguryildiz54/ozguryildiz54/output/github-contribution-grid-snake.svg)
-
 ---
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozguryildiz54&theme=tokyonight&hide_border=true" width="100%" />

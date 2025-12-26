@@ -1,4 +1,3 @@
-```md
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Özgür%20Yıldız&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
@@ -37,11 +36,11 @@ I build scalable backends, REST APIs, and automation tools — and I also enjoy 
 ### 🚀 Featured Projects
 | Project | Stack | Highlights | Link |
 |---|---|---|---|
-| **DraftLift Scheduler** | Node.js, Express | Automation, scheduling, publishing workflow | https://github.com/ozguryildiz54/draftlift-scheduler |
-| **Real Estate Management** | C#, .NET, MSSQL | CRUD, layered architecture, DB design | https://github.com/ozguryildiz54/Real-Estate-Management-System |
-| **Stock Exchange Automation** | Java, OOP | Simulation, order flow, design patterns | https://github.com/ozguryildiz54/Stock-Exchange-Automation |
-| **Inventory Management System** | ASP.NET MVC, C#, .NET Framework | Asset lifecycle, fault/ticket reporting, admin panel | https://github.com/ozguryildiz54/Inventory-Management-System |
-| **IoT Line Follower Robot** | C++, Arduino | Sensors + control logic | https://github.com/ozguryildiz54/IoT-Line-Follower-Robot-v2 |
+| **DraftLift Scheduler** | Node.js, Express | Automation, publishing workflow | [Visit](https://github.com/ozguryildiz54/draftlift-scheduler) |
+| **Real Estate Management** | C#, .NET, MSSQL | CRUD, Layered Architecture | [Visit](https://github.com/ozguryildiz54/Real-Estate-Management-System) |
+| **Stock Exchange Automation** | Java, OOP | Order Flow, Design Patterns | [Visit](https://github.com/ozguryildiz54/Stock-Exchange-Automation) |
+| **Inventory Management** | ASP.NET MVC, C# | Asset lifecycle, Admin Panel | [Visit](https://github.com/ozguryildiz54/Inventory-Management-System) |
+| **IoT Line Follower Robot** | C++, Arduino | Sensors + Control Logic | [Visit](https://github.com/ozguryildiz54/IoT-Line-Follower-Robot-v2) |
 
 ---
 
@@ -58,10 +57,9 @@ I build scalable backends, REST APIs, and automation tools — and I also enjoy 
 ---
 
 <p align="center">
-  <b>Let’s build something amazing!</b> 🥕
+  <b>Let’s build something amazing!</b> 🚀 🥕
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer" width="100%" />
 </p>
-```

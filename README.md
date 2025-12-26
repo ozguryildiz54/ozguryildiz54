@@ -4,8 +4,8 @@
 
 ## 🥕 What's up, doc? I'm Özgür!
 
-[cite_start]Backend-focused **Computer Engineer** based in **Boston, USA**[cite: 10, 11].  
-[cite_start]I build scalable backends, REST APIs, and automation tools — and I also enjoy IoT projects that connect software with real-world devices[cite: 24, 25, 26].
+Backend-focused **Computer Engineer** based in **Boston, USA**.  
+I build scalable backends, REST APIs, and automation tools — and I also enjoy IoT projects that connect software with real-world devices.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ozguryildiz0/">
@@ -22,25 +22,26 @@
 
 ### 🛠 Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-111111?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects Portfolio
 | Project | Stack | Highlights | Link |
 |---|---|---|---|
-| **DraftLift Scheduler** | Node.js, Express | Automation, publishing workflow | [Visit](https://github.com/ozguryildiz54/draftlift-scheduler) |
-| **Real Estate Management** | C#, .NET, MSSQL | CRUD, Layered Architecture | [Visit](https://github.com/ozguryildiz54/Real-Estate-Management-System) |
-| **Stock Exchange Automation** | Java, OOP | Order Flow, Design Patterns | [Visit](https://github.com/ozguryildiz54/Stock-Exchange-Automation) |
-| **Inventory Management** | ASP.NET MVC, C# | Asset lifecycle, Admin Panel | [Visit](https://github.com/ozguryildiz54/Inventory-Management-System) |
-| **IoT Line Follower Robot** | C++, Arduino | Sensors + Control Logic | [Visit](https://github.com/ozguryildiz54/IoT-Line-Follower-Robot-v2) |
+| **DraftLift Scheduler** | Node.js, Express | Automation & Workflow | [Visit](https://github.com/ozguryildiz54/draftlift-scheduler) |
+| **Real Estate Management** | C#, .NET, MSSQL | Layered Architecture | [Visit](https://github.com/ozguryildiz54/Real-Estate-Management-System) |
+| **Stock Exchange Automation** | Java, OOP | Financial Simulation | [Visit](https://github.com/ozguryildiz54/Stock-Exchange-Automation) |
+| **Micro Market Management** | Java, Mobile | Inventory & Sales | [Visit](https://github.com/ozguryildiz54/Micro-Market-Management) |
+| **Inventory Management** | ASP.NET MVC, C# | Asset Lifecycle | [Visit](https://github.com/ozguryildiz54/Inventory-Management-System) |
+| **IoT Line Follower Robot** | C++, Arduino | Control Logic & Sensors | [Visit](https://github.com/ozguryildiz54/IoT-Line-Follower-Robot-v2) |
 
 ---
 

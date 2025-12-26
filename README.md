@@ -10,13 +10,10 @@ I build scalable backends, REST APIs, and automation tools — and I also enjoy 
 <p align="left">
   <a href="https://www.linkedin.com/in/ozguryildiz0/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ozguryildiz0@outlook.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  📧 **Direct Contact:** [ozguryildiz0@outlook.com](mailto:ozguryildiz0@outlook.com)
 </p>
 
-📧 **Direct Contact:** [ozguryildiz0@outlook.com](mailto:ozguryildiz0@outlook.com)
+
 
 ---
 

@@ -42,7 +42,7 @@ I build scalable backends, REST APIs, **authentication (JWT), and database-drive
 | **DraftLift Scheduler** | Node.js, Express | Automated scheduling & publishing pipeline | [Repo](https://github.com/ozguryildiz54/draftlift-scheduler) |
 | **Real Estate Management** | C#, .NET, MSSQL | Layered architecture + MSSQL schema design | [Repo](https://github.com/ozguryildiz54/Real-Estate-Management-System) |
 | **Stock Exchange Automation** | Java, OOP | Order book simulation (OOP & design patterns) | [Repo](https://github.com/ozguryildiz54/Stock-Exchange-Automation) |
-| **Micro Market Management** | Java, Mobile | Inventory & Sales | [Repo](https://github.com/ozguryildiz54/Micro-Market-Management) |
+| **Micro Market Management** | Java, Mobile | Inventory & Sales | [Repo](https://github.com/ozguryildiz54/MikroMarket) |
 | **Inventory Management** | ASP.NET MVC, C# | Asset lifecycle + fault/ticket reporting | [Repo](https://github.com/ozguryildiz54/Inventory-Management-System) |
 | **IoT Line Follower Robot** | C++, Arduino | Control Logic & Sensors | [Repo](https://github.com/ozguryildiz54/IoT-Line-Follower-Robot-v2) |
 

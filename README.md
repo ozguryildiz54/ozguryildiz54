@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Özgür%20Yıldız&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
-## 🥕 What's up, doc? I'm Özgür!
+## 🥕 What's up, doc? I'm Ozgur!
 
 Backend-focused **Computer Engineer** based in **Boston, USA**.  
 I build scalable backends, REST APIs, **authentication (JWT), and database-driven applications** — and I also enjoy IoT projects that connect software with real-world devices.

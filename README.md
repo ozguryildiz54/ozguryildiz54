@@ -10,9 +10,13 @@ I build scalable backends, REST APIs, and automation tools — and I also enjoy 
 <p align="left">
   <a href="https://www.linkedin.com/in/ozguryildiz0/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ozguryildiz0@outlook.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-  📧 **Direct Contact:** [ozguryildiz0@outlook.com](mailto:ozguryildiz0@outlook.com)
+📧 **Direct Contact:** [ozguryildiz0@outlook.com](mailto:ozguryildiz0@outlook.com)
 
 ---
 
@@ -40,11 +44,19 @@ I build scalable backends, REST APIs, and automation tools — and I also enjoy 
 | **IoT Line Follower Robot** | C++, Arduino | Control Logic & Sensors | [Visit](https://github.com/ozguryildiz54/IoT-Line-Follower-Robot-v2) |
 
 ---
-![Snake](https://raw.githubusercontent.com/ozguryildiz54/ozguryildiz54/output/github-contribution-grid-snake.svg)
----
+
+### 📊 GitHub Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ozguryildiz54&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozguryildiz54&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozguryildiz54&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ozguryildiz54/ozguryildiz54/output/github-snake.svg" alt="Snake animation" width="100%" />
 </p>
 
 ---

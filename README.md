@@ -41,17 +41,18 @@ I build scalable backends, REST APIs, and automation tools — and I also enjoy 
 
 ---
 
-### 🚀 Current Workspace & Focus
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ozguryildiz54&repo=IoT-Line-Follower-Robot-v2&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ozguryildiz54&repo=Stock-Exchange-Automation&theme=tokyonight" />
-</p>
+### 📊 GitHub Activity (Fixed)
+![Stats](https://github-readme-stats.vercel.app/api?username=ozguryildiz54&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=7200&v=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozguryildiz54&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200&v=3)
+![Streak](https://streak-stats.demolab.com?user=ozguryildiz54&theme=tokyonight&hide_border=true&v=3)
 
-> **Status:** 🛠️ Refactoring Backend architectures | 📡 Exploring IoT protocols in Boston.
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozguryildiz54&theme=tokyonight&hide_border=true" width="100%" />
-</p>
+### 🐍 Contribution Snake (More Creative)
+> If you haven't created the `snake.yml` workflow yet, this will appear after you add it (steps below).
+![Snake](https://raw.githubusercontent.com/ozguryildiz54/ozguryildiz54/output/github-contribution-grid-snake.svg)
+
+---
 
 
 <p align="center">

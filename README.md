@@ -80,7 +80,58 @@ Computer Engineer & Backend Developer based in **Boston, USA**. I'm a developer 
 | **Micro Market System** | Java, Mobile | [Visit Repo](https://github.com/ozguryildiz54/Micro-Market-Management) |
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Özgür%20Yıldız&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
 
+# Hey there, I'm Özgür! 🚀
+
+Computer Engineer & Backend Developer based in **Boston, USA**. Dedicated to building scalable systems and exploring the intersection of IoT and Software Architecture.
+
+---
+
+### 🛠 Technologies & Tools
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+---
+
+### 📂 Project Portfolio
+
+| Project Name | Tech Stack | Repo Link |
+| :--- | :--- | :--- |
+| **Real Estate Management** | C#, .NET, MSSQL | [Visit Repo](https://github.com/ozguryildiz54/Real-Estate-Management-System) |
+| **Stock Exchange Automation** | Java, OOP | [Visit Repo](https://github.com/ozguryildiz54/Stock-Exchange-Automation) |
+| **IoT Line Follower Robot** | C++, Arduino | [Visit Repo](https://github.com/ozguryildiz54/IoT-Line-Follower-Robot-v2) |
+| **Micro Market System** | Java, Mobile | [Visit Repo](https://github.com/ozguryildiz54/Micro-Market-Management) |
+
+---
+
+### 📊 GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ozguryildiz54&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozguryildiz54&layout=compact&theme=tokyonight" width="48%" />
+</p>
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ozguryildiz0/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ozguryildiz0@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>What's up, doc? Let's build something amazing!</b> 🥕
+</p>
 ### 📊 GitHub Stats
 ![Özgür's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozguryildiz54&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozguryildiz54&layout=compact&theme=tokyonight)
